@@ -1,4 +1,4 @@
-## Unity-Project1
+## Happybob Project
 
 Spelet är inspirerat av Flappy Bird och går ut på att styra en karaktär som ständigt faller nedåt. Spelaren trycker på space för att få karaktären att flyga uppåt och hålla sig i luften. Målet är att navigera genom hinder utan att krocka och att samla så hög poäng som möjligt genom att passera fler hinder.
 
